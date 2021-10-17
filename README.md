@@ -1,1 +1,1 @@
-# personalMetricsTracker
+# personal-metrics-tracker

@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Crow Authentication Example</title>
+        <title>Personal Metrics Tracker</title>
       </Head>
       <Component {...pageProps} />
     </>

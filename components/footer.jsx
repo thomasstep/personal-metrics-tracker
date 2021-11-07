@@ -20,7 +20,7 @@ export default function Footer() {
         {
           Object.entries(links).map(([key, value]) => {
             return (
-              <p>
+              <p key={key}>
                 <a href={key} className="hover:text-green-500 focus:text-green-500 text-lg">
                   {value.text}
                 </a>
